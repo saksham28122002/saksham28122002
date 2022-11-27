@@ -1,6 +1,6 @@
 - ### < Hello World /> <img src="https://rb.gy/8czkyq" width="32px"> My Name is **Saksham**
 
-<a href="#" ><img align="right" height="auto" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="vartika_511" height="100%" width="500px" /></a>
+<a href="#" ><img align="right" height="auto" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="vartika_511" height="75%" width="375px" /></a>
 I'm a 3rd year student at SRM Institute of Science and technology, pursuing Bachelor of Technology in the field of Computer Science under CyberSecurity as my specialization. I'm looking to kickstart my career as full stack web developer. I wish to work in a dynamic organization that will contribute to my professional and personal growth. Also, I am willing to explore a wide variety of opportunities that can help me to achieve my goals.
 
 Skills: C / C++ / Python / HTML / CSS
