@@ -1,6 +1,6 @@
-- ### Hi there 👋, My name is **Saksham**
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+- ### < Hello World /> <img src="https://rb.gy/8czkyq" width="32px"> My Name is **Saksham**
 
+<img align="right" alt="GIF" height="200px" src="code.png" />
 I'm a 3rd year student at **SRM Institute of Science and technology**, pursuing Bachelor of Technology in the field of Computer Science under CyberSecurity as my specialization. I'm looking to kickstart my career as full stack web developer. I wish to work in a dynamic organization that will contribute to my professional and personal growth. Also, I am willing to explore a wide variety of opportunities that can help me to achieve my goals.
 
 Skills: C / C++ / Python / HTML / CSS
